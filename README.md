@@ -45,17 +45,15 @@ npm -v
 Если вы получили этот проект через клонирование репозитория, пропустите шаг "Создание React-приложения" ниже и выполните:
 
 ```bash
-git clone [URL_ВАШЕГО_РЕПОЗИТОРИЯ]
-cd название-папки-проекта
+git clone https://github.com/SergoSektor/cs-concepts-frontend
 npm install
 ```
 
 ### 3. Установка зависимостей
 
-Перейдите в директорию проекта `cs_three` и установите все необходимые зависимости:
+Перейдите в директорию проекта и установите все необходимые зависимости:
 
 ```bash
-cd C:\Users\SergoSektor\Desktop\web_speedrun\computer_science\cs_three
 npm install
 ```
 
